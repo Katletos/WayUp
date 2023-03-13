@@ -1,2 +1,4 @@
-# WayUp
-educational
+# Technologies
+ - jQuery
+ - animate.css
+ - google fonts
